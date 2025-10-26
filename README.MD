@@ -5,8 +5,8 @@ Bot Telegram untuk keperluan penjualan/otomatisasi tembak paket, dengan fitur ba
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/sttunnel/bot_xl_telegram.git
-cd bot_xl_telegram
+git clone https://github.com/mudziboy/testing.git
+cd testing
 ```
 
 ### 2. Edit Konfigurasi

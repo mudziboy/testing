@@ -1,15 +1,15 @@
 {
-  "token": "8049229960:AAEMdgvMLGBk3jBEwArvp7iGT3EHiMY0JFs",
-  "notifikasi": "8448376500:AAEs-trWzNSGsunLB4NMMTN9Dz301lq_Cmg",
+  "token": "",
+  "notifikasi": ":",
   "notifikasi_username": "notifdorsagi",
   "admin": {
-    "userid": 8118068872,
+    "userid": ,
     "username": "rahmarie"
   },
   "api": {
     "base_url": "https://me.mashu.lol/pg-hot.json",
-    "email": "mudziboy19@gmail.com",
-    "password": "desember@"
+    "email": "",
+    "password": ""
   },
   "qris_string": "",
   "qris_path": "core/qris.png"
